@@ -1,0 +1,10 @@
+**/*.d.ts
+**/.editorconfig
+**/*.env
+**/.gitignore
+**/.next
+**/.prettierignore
+**/dist
+**/__tests__
+.eslintignore
+public
