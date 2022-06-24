@@ -1,5 +1,5 @@
 {
-  "extends": ["airbnb", "next/core-web-vitals"],
+  "extends": ["airbnb", "next/core-web-vitals", "plugin:cypress/recommended"],
   "parser": "@typescript-eslint/parser",
   "overrides": [
     {

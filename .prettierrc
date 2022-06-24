@@ -18,6 +18,12 @@
       }
     },
     {
+      "files": "*.spec.[jt]s",
+      "options": {
+        "semi": true
+      }
+    },
+    {
       "files": ["*.html", "legacy/**/*.js"],
       "options": {}
     }
